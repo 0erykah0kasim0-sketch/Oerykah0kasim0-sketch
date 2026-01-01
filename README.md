@@ -36,3 +36,44 @@ EMP-M、FlashNet、UFT-ALC、Eco-Frequency Mesh 等多域模組
 
 包含投稿版論文、政策型白皮書、公共版本研究文獻
 🔗 https://github.com/Oerykah0kasim0-sketch/K.K.-Whitepaper-Library
+
+🧩 Conceptual Structure（研究架構）
+Civilization OS (Meta-Layer)
+│
+├── ND-OS (Natural Resilience Kernel)
+│     ├── Terrain Chaos Field
+│     ├── Cognitive-Gap Masking
+│     └── Micro-Offset Buffer Time
+│
+├── Island-OS (Applied Defense Modules)
+│     ├── FlashNet Air-Denial OS
+│     ├── EMP-M Electromagnetic Membrane
+│     ├── UFT-ALC Auto Logistics Core
+│     ├── Eco-Frequency Mesh
+│     └── Systemic Resonance (Support Levers)
+│
+└── Whitepaper Library (Documentation / Full Papers)
+
+📘 Core Philosophies（核心理念）
+
+自然是文明的第一層 OS：地形、風場、混沌本身就是韌性模組
+
+文明必須版本化：ND-OS → Island-OS → Modules → Policies
+
+緩衝時間是島嶼的最高戰略資源
+
+作業系統大於武器系統：OS 決定可存活空間
+
+多元支撐桿 × 黏稠度共振：將島嶼定位化為全球結構支點
+
+🛡 License & Integrity
+
+All research documents are timestamped via GitHub commits.
+Unless otherwise specified, materials follow CC BY 4.0.
+
+GitHub = Single Source of Truth (SSOT)
+版本、更新、原始稿、演化路徑均以此為準。
+
+✨ Contact / Collaboration
+
+歡迎於 repo 中開 issue 討論技術節點、文明架構、OS 接口設計等議題。
